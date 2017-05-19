@@ -6273,7 +6273,7 @@ button[disabled] {
   clear: both;
 }
 
-@media screen and (min-width: 767px) {
+@media screen and (min-width: 769px) {
 
    .wy-table-responsive table td {
       white-space: normal !important;
@@ -6282,5 +6282,25 @@ button[disabled] {
    .wy-table-responsive {
       /*overflow: visible !important;*/
    }
+}
+
+@media screen and (max-width: 768px) {
+
+  .wy-nav-top {
+    padding: 1em;
+    line-height: normal;
+    text-align: left;
+  }
+
+  .wy-nav-top a {
+    line-height: normal;
+    padding-left: 40px;
+    display: block;
+  }
+
+  .wy-nav-top i {
+    padding-top: 6px;
+  }
+
 }
 /*# sourceMappingURL=theme.css.map */
