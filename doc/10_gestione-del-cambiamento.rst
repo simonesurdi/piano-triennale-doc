@@ -268,7 +268,6 @@ tempistiche:
 |               | Lo strumento sarà reso disponibile alle PA aggregatrici.                                                                                                                                                                                   |
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Risultato     | Insieme minimo di Indicatori per la misurazione dello stato di avanzamento del Piano (*data di rilascio: luglio 2017*).                                                                                                                    |
-|               |                                                                                                                                                                                                                                            |
 |               | Primo rilascio del sistema di monitoraggio (*data di rilascio: marzo 2018*).                                                                                                                                                               |
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
@@ -294,7 +293,6 @@ tempistiche:
 | Descrizione   | Raccordo tra gli attori per la definizione delle figure professionali identificate dal Piano con la messa a punto di specifici percorsi formativi.   |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Risultato     | Revisione dei profili UNINFO e ISTAT per le nuove figure professionali con competenze digitali.                                                      |
-|               |                                                                                                                                                      |
 |               | Realizzazione di format di corsi, workshop e master.                                                                                                 |
 +---------------+------------------------------------------------------------------------------------------------------------------------------------------------------+
 
