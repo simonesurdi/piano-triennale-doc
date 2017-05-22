@@ -294,9 +294,7 @@ Sanitario Elettronico è sintetizzata nella seguente linea d’azione.
 .. rubric:: Note
 
 .. [68]
-   `http://www.rgs.mef.gov.it/\_Documenti/VERSIONE-I/e-GOVERNME1/Contabilit/Pubblicazioni/MissionieProgrammi/ <http://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/Contabilit/Pubblicazioni/MissionieProgrammi/>`__
-
-   `MissioniProgrammi-2015\_10.pdf <http://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/Contabilit/Pubblicazioni/MissionieProgrammi/>`__
+   `http://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/Contabilit/Pubblicazioni/MissionieProgrammi/MissioniProgrammi-2015_10.pdf <http://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/Contabilit/Pubblicazioni/MissionieProgrammi/MissioniProgrammi-2015_10.pdf>`__
 
 .. [69]
    `http://www.istruzione.it/scuola\_digitale <http://www.istruzione.it/scuola_digitale>`__
