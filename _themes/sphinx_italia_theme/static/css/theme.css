@@ -5904,14 +5904,24 @@ footer span.commit code, footer span.commit .rst-content tt, .rst-content footer
   border: none;
   background-color: transparent !important;
   white-space: normal;
+  word-break: break-word;
 }
 .rst-content table.docutils.citation td.label, .rst-content table.docutils.footnote td.label {
   padding-left: 0;
   padding-right: 0;
   vertical-align: top;
+  word-break: normal;
 }
 .rst-content table.docutils.citation tt, .rst-content table.docutils.citation code, .rst-content table.docutils.footnote tt, .rst-content table.docutils.footnote code {
   color: #555;
+}
+.rst-content table.docutils p {
+  font-size: inherit;
+  margin-bottom: 6px;
+}
+.rst-content table.docutils td {
+  white-space: normal;
+  word-break: normal;
 }
 .rst-content table.field-list {
   border: none;
