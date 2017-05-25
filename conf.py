@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Piano triennale per l\'informatica nella Pubblica amministrazione 2017 - 2019'
+settings_project_name = 'Piano triennale per l\'informatica nella PA 2017 - 2019'
 settings_copyright_year = '2017'
 settings_copyright_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = '1'
@@ -87,8 +87,6 @@ else:
     # Override default css to get a larger width for ReadTheDoc build
     html_context = {
         'css_files': [
-            'https://media.readthedocs.org/css/sphinx_rtd_theme.css',
-            'https://media.readthedocs.org/css/readthedocs-doc-embed.css',
             '_static/css/theme.css',
         ],
     }
